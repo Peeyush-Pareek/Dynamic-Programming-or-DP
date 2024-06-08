@@ -6,7 +6,7 @@
 Table of Content
 <details>
   <summary>Title 1</summary>
-  <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+  <p><ul><li>first</li><li>first</li><li>first</li><li>first</li></ul></p>
 </details>
 <details>
  <summary>1.	About DP:</summary> 
