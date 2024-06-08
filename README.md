@@ -14,7 +14,7 @@ Table of Content
 </details>
 <details>
   <summary>2.	How DP works?</summary>
-  <p> <ul><li> **Identify Subproblems**: Separate the primary issue into a number of smaller, distinct subproblems. Store Solutions: Find a solution to each subproblem and store it in an array or table.</li>
+  <p> <ul><li> <b></b>Identify Subproblems**: Separate the primary issue into a number of smaller, distinct subproblems. Store Solutions: Find a solution to each subproblem and store it in an array or table.</li>
   <li> **Build Up Solutions**: Utilize the stored solutions to construct the main problem's solution.</li>
   <li>	**Keep away from Overt repetitiveness**: By putting away arrangements, DP guarantees that each subproblem is settled just a single time, decreasing calculation time.	</li></ul></p>
 </details> 
@@ -22,10 +22,10 @@ Table of Content
 <details>
   <summary>3.	Example of DP.</summary>
 **Instances or Examples  of Dynamic Programming (DP)** :
- <p>  * I __First__, consider the difficulty of locating the Fibonacci sequence.
-   * II __Second__, finding the longest subsequence that is shared by two strings.
-   * III.	__Third__, the shortest path between two nodes in a graph.	
-   * IV.	__Fourth__, the knapsack problem (determining the maximum value of items that can be packed into a given-capacity knapsack).</p>
+ <p>  <ol> <li>I __First__, consider the difficulty of locating the Fibonacci sequence.</li>
+   <li>II __Second__, finding the longest subsequence that is shared by two strings.</li>
+   <li>III.	__Third__, the shortest path between two nodes in a graph.	</li>
+  <li></li> IV.	__Fourth__, the knapsack problem (determining the maximum value of items that can be packed into a given-capacity knapsack).</li></ol></p>
 </details>
 
    [Go To TOP](#TOP)   
