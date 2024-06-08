@@ -10,4 +10,3 @@ Table of Content
 5.	Approach of DP.
 6.	Algorithms
 7.	Advance Concepts.
-![Uploading image.png…]()
