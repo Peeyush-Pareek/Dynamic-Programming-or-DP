@@ -4,10 +4,7 @@
 # About Dynamic Programming or DP. #
 
 Table of Content
-<details>
-  <summary>Title 1</summary>
-  <p><ul><li>first</li><li>first</li><li>first</li><li>first</li></ul></p>
-</details>
+
 <details>
  <summary>1.	About DP:</summary> 
   <p>In mathematics and computer science, dynamic programming is used to break down difficult problems into simpler subproblems. It avoids redundant computations by solving each subproblem once and storing the results, resulting in more efficient solutions to numerous issues.</p>
