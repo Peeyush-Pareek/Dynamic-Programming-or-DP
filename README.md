@@ -1,4 +1,9 @@
 # Dynamic-Programming-or-DP
+Markup :  # Heading 1 #
+
+-OR-
+
+Markup :  ============= (below H1 text)
 About Dynamic Programming or DP.
 
 Table of Content
