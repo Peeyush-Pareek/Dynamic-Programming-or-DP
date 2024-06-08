@@ -9,19 +9,15 @@ Table of Content
 I.	Identify Subproblems: Separate the primary issue into a number of smaller, distinct subproblems. Store Solutions: Find a solution to each subproblem and store it in an array or table. 
 II.	Build Up Solutions: Utilize the stored solutions to construct the main problem's solution. 
 III.	Keep away from Overt repetitiveness: By putting away arrangements, DP guarantees that each subproblem is settled just a single time, decreasing calculation time.
-![image](https://github.com/Peeyush-Pareek/Dynamic-Programming-or-DP/assets/114051459/94dac5b4-7d0a-4b32-856f-f209df0bbfc7)
 
-5.	Example of DP.
+3.	Example of DP.
 **Instances or Examples  of Dynamic Programming (DP)** :
  I.	First, consider the difficulty of locating the Fibonacci sequence. 
 II.	Second, finding the longest subsequence that is shared by two strings. 
 III.	Third, the shortest path between two nodes in a graph.
 IV.	Fourth, the knapsack problem (determining the maximum value of items that can be packed into a given-capacity knapsack).
-![image](https://github.com/Peeyush-Pareek/Dynamic-Programming-or-DP/assets/114051459/a0c0802f-8fc1-4821-a792-68032f8bedec)
 
-
-
-7.	Applications of DP.
-8.	Approach of DP.
-9.	Algorithms.
-10.	Advance Concepts.
+4.	Applications of DP.
+5.	Approach of DP.
+6.	Algorithms.
+7.	Advance Concepts.
