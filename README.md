@@ -14,10 +14,10 @@ Table of Content
  
 3.	Example of DP.
 **Instances or Examples  of Dynamic Programming (DP)** :
-   I.	__First__, consider the difficulty of locating the Fibonacci sequence. 
-  II.	__Second__, finding the longest subsequence that is shared by two strings. 
-  III.	__Third__, the shortest path between two nodes in a graph.
-  IV.	__Fourth__, the knapsack problem (determining the maximum value of items that can be packed into a given-capacity knapsack).
+   * I __First__, consider the difficulty of locating the Fibonacci sequence.
+   * II __Second__, finding the longest subsequence that is shared by two strings.
+* III.	__Third__, the shortest path between two nodes in a graph.	
+  * IV.	__Fourth__, the knapsack problem (determining the maximum value of items that can be packed into a given-capacity knapsack).
 [Go To TOP](#TOP)
 4.	Applications of DP.
 5.	Approach of DP.
