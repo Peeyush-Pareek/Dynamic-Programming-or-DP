@@ -22,10 +22,10 @@ Table of Content
 <details>
   <summary>3.	Example of DP.</summary>
 **Instances or Examples  of Dynamic Programming (DP)** :
- <p>  <ol> <li>I __First__, consider the difficulty of locating the Fibonacci sequence.</li>
-   <li>II __Second__, finding the longest subsequence that is shared by two strings.</li>
-   <li>III.	__Third__, the shortest path between two nodes in a graph.	</li>
-  <li>IV.	__Fourth__, the knapsack problem (determining the maximum value of items that can be packed into a given-capacity knapsack).</li></ol></p>
+ <p>  <ol> <li>__First__, consider the difficulty of locating the Fibonacci sequence.</li>
+   <li>__Second__, finding the longest subsequence that is shared by two strings.</li>
+   <li>__Third__, the shortest path between two nodes in a graph.	</li>
+  <li>__Fourth__, the knapsack problem (determining the maximum value of items that can be packed into a given-capacity knapsack).</li></ol></p>
 </details>
 
    [Go To TOP](#TOP)   
