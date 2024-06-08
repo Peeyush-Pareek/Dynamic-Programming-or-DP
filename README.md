@@ -1,6 +1,6 @@
 # Dynamic-Programming-or-DP
 About Dynamic Programming or DP.
-Dynamic Programming or DP
+
 Table of Content
 
 1.	About DP
