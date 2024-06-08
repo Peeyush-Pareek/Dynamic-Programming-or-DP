@@ -12,7 +12,7 @@ Build Up Solutions: Utilize the stored solutions to construct the main problem's
 Keep away from Overt repetitiveness: By putting away arrangements, DP guarantees that each subproblem is settled just a single time, decreasing calculation time.
 
 5.	Example of DP.
-Instances or Examples  of Dynamic Programming (DP) :
+**Instances or Examples  of Dynamic Programming (DP)** :
 First, consider the difficulty of locating the Fibonacci sequence. 
 Second, finding the longest subsequence that is shared by two strings. 
 Third, the shortest path between two nodes in a graph.
