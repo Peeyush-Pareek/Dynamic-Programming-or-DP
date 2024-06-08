@@ -14,9 +14,9 @@ Table of Content
 </details>
 <details>
   <summary>2.	How DP works?</summary>
-  <p> * I **Identify Subproblems**: Separate the primary issue into a number of smaller, distinct subproblems. Store Solutions: Find a solution to each subproblem and store it in an array or table.
-   * II **Build Up Solutions**: Utilize the stored solutions to construct the main problem's solution.
-   * III.	**Keep away from Overt repetitiveness**: By putting away arrangements, DP guarantees that each subproblem is settled just a single time, decreasing calculation time.	</p>
+  <p> <ul><li> **Identify Subproblems**: Separate the primary issue into a number of smaller, distinct subproblems. Store Solutions: Find a solution to each subproblem and store it in an array or table.</li>
+  <li> **Build Up Solutions**: Utilize the stored solutions to construct the main problem's solution.</li>
+  <li>	**Keep away from Overt repetitiveness**: By putting away arrangements, DP guarantees that each subproblem is settled just a single time, decreasing calculation time.	</li></ul></p>
 </details> 
  
 <details>
