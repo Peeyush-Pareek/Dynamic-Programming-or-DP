@@ -4,9 +4,14 @@
 # About Dynamic Programming or DP. #
 
 Table of Content
-
-1.	About DP: In mathematics and computer science, dynamic programming is used to break down difficult problems into simpler subproblems. It avoids redundant computations by solving each subproblem once and storing the results, resulting in more efficient solutions to numerous issues.
-
+<details>
+  <summary>Title 1</summary>
+  <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+</details>
+<details>
+ <summary>1.	About DP:</summary> 
+  <p>In mathematics and computer science, dynamic programming is used to break down difficult problems into simpler subproblems. It avoids redundant computations by solving each subproblem once and storing the results, resulting in more efficient solutions to numerous issues.</p>
+</details>
 2.	How DP works?
    * I **Identify Subproblems**: Separate the primary issue into a number of smaller, distinct subproblems. Store Solutions: Find a solution to each subproblem and store it in an array or table.
    * II **Build Up Solutions**: Utilize the stored solutions to construct the main problem's solution.
